@@ -1008,7 +1008,7 @@ footer {
   header {
     padding: 0;
     padding-bottom: 3rem;
-    height: 60vh;
+    height: 90vh;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('images/Camera\ BG.jpg') center/cover no-repeat;
   }
 
@@ -1046,7 +1046,7 @@ footer {
   }
 
   .header-right {
-    margin-top: -45rem;
+    margin-top: -30rem;
   }
 
   #about {
@@ -1075,7 +1075,7 @@ footer {
   }
 
   .about-right p {
-    margin-top: -3rem;
+    margin-top: -5rem;
     margin-bottom: 1rem;
   }
 
