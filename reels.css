@@ -630,7 +630,7 @@ footer {
 
 }
 
-@media screen and (max-width: 475px) {
+@media screen and (min-width: 414px) {
 
   .reels-container h1 {
     font-size: 1.5rem;
@@ -668,11 +668,11 @@ footer {
   .video-player {
     width: 96%;
     left: 50%;
-    top: 38%;
+    top: 40%;
   }
 
   .reels-btn {
-    bottom: -1rem;
+    bottom: -6rem;
   }
 
   
